@@ -59,4 +59,7 @@ monitor：
 
 添加新引擎需要在需要添加的引擎机器的woker目录下的modules目录下添加，可参考其他引擎
 并且修改配置文件
+
+demo:
+http://www.cnsite.so/
 	
